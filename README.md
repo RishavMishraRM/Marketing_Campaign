@@ -1,3 +1,3 @@
 # Marketing_Campaign
 
-Boost the profit of a marketing campaign
+Boosting the profit of a Marketing Campaign
